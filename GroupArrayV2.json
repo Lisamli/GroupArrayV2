@@ -1,7 +1,7 @@
 {
   "authorized_hwids": [
     { "hwid": "55abc404283d9c877f21e9ab327f800bde3e44faaceee71b8bd1a5b0b35ae49f", "note": "喜欢巴库的小米" },
-    { "hwid": "20c06bab7bc1f99f8ed3093cbeb800458f3bd69af6ed495ef2f55b918a7d9f05", "note": "喜欢巴库的小米" }
+    { "hwid": "20c06bab7bc1f99f8ed3093cbeb800458f3bd69af6ed495ef2f55b918a7d9f05", "note": "喜欢巴库的小米" },
     { "hwid": "4b26705633a37986fc6d1661d9bc620452c58b7db3fb998d30b6b5c3f457e8a2", "note": "樱桃小丸子" },
     { "hwid": "5fc965716c459c5b28d29edea25cd37d550828935e3f8ff7c0884f91052ba356", "note": "樱桃小丸子" },
     { "hwid": "fae92448bb9e4af17c63c134a5159262d0b768b850302aed804c02b156d70627", "note": "笨蛋小店铺" },
@@ -45,6 +45,7 @@
     { "hwid": "fd0e55b56893fd4065bdb0f953ede8f0ee59c7f1e495c450dc989af7c6a7efd8", "note": "煮酒梅子青" },
     { "hwid": "e2d8e9e0680318f2d9b8d41c1cabb5a5819f655a18546ecf1bd86b3b930ab067", "note": "煮酒梅子青" },
     { "hwid": "ec65ef94f9659fe70f8079325e5c010433f66ffbdecdf3798cc2078753c4ba6b", "note": "卡厄思梦境代肝" },
-    { "hwid": "b7551eefcf1b443643c858907d771ac1e4d334718c38a1138adfe4b517cdabe9", "note": "卡厄思梦境代肝" }    
+    { "hwid": "b7551eefcf1b443643c858907d771ac1e4d334718c38a1138adfe4b517cdabe9", "note": "卡厄思梦境代肝" },
+    { "hwid": "b7551eefcf1b443643c858907d771ac1e4d334718c38a1138adfe4b517cdabe9", "note": "admin" }        
   ]
 }
